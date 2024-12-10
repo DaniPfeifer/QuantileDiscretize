@@ -2,7 +2,7 @@
 Python quantile discretize function
 
 Inputs:
-`df`: A pandas database
+`df`: A pandas database<br>
 `numOfIntervals`: An integer
 
 Outputs:
