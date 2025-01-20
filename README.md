@@ -9,6 +9,6 @@ Python quantile discretize function
 # Outputs:
 A pandas database of the same shape and columns, but values discretized to the given number of intervals.
 
-# Examples
+# Examples:
 `discretized_df = quantileDiscretize(df, 5)`<br>
 `discretized_df = quantileDiscretize(df, 7, printPartitions=True)`
